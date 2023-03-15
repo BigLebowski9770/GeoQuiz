@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Geo Quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong</string>
+    <string name="next_button">Next</string>
+
+    <string name="question_australia">Canbera is the Capitel of Australia</string>
+    <string name="question_ocean">Pacific ocean is big</string>
+    <string name="question_mideast">Suetstii canal os connect a indian ocean and red sea</string>
+    <string name="question_africa">In Africa is hot</string>
+    <string name="question_america">Is the America is greatest country  in the wrld</string>
+    <string name="question_asia">Aziati pidorasy</string>
+    <string name="back">Back</string>
+    />
+</resources>
